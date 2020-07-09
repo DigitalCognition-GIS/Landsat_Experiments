@@ -37,8 +37,16 @@
 
 > The source cited above is NOT an official LANDSAT source . Feel free to corraborate information quoted in this README file .    
 
+- Landsat 8 Bands Combination and Usage 
 <p align="center">
-    <img src="https://github.com/DigitalCognition-GIS/Landsat_Experiments/blob/master/ScreenCaptures/Landsat_8.jpg" width= "850px">
+    <img src="https://github.com/DigitalCognition-GIS/Landsat_Experiments/blob/master/ScreenCaptures/Screenshot%20from%202020-07-09%2018-38-27.png" width= "850px">
+</p>
+
+
+
+- Moisture Index 
+<p align="center">
+    <img src="https://github.com/DigitalCognition-GIS/Landsat_Experiments/blob/master/ScreenCaptures/Screenshot%20from%202020-07-09%2018-34-46.png" width= "850px">
 </p>
 
 
