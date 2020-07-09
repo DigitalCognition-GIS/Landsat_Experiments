@@ -5,7 +5,7 @@
     <img src="https://github.com/DigitalCognition-GIS/Landsat_Experiments/blob/master/ScreenCaptures/Landsat_8.jpg" width= "850px">
 </p>
 
-<h1 align="center">LANDSAT Experiments - </h1>
+<h1 align="center">LANDSAT Features and Facts - </h1>
 
 > This repository will contain both code and additional reading material refrences for analytics and pseudo-projects done with the LANDSAT Data. (LANDSAT -8 Mostly) **- LANDSAT 2020**
  
@@ -17,10 +17,10 @@
 
 ### Table of Contents of this repository
 
-- [X] `A-- Intro to LANDSAT group of satellites` 
-- [X] `B-- Download and Preprocess LANDSAT -7&8 Data` 
-- [X] `C-- Further explorations with LANDSAT -7&8 Data` 
-- [X] `D-- Global Food Security Support Analysis Data (GFSAD)` 
+- [X] `A-- Intro of the LANDSAT Image BANDS` 
+- [X] `B-- Work in Progress` 
+- [X] `C-- Work in Progress` 
+- [X] `D-- Work in Progress` 
 - [X] `Work in Progress` 
 - [X] `Work in Progress` 
 - [X] `Work in Progress` 
@@ -32,11 +32,24 @@
 
 ### LANDSAT - 8 ( Features and Facts )
 
-- Source URL - https://www.usgs.gov/land-resources/nli/landsat/landsat-8?qt-science_support_page_related_con=0#qt-science_support_page_related_con   
+- Source URL - https://gisgeography.com/landsat-8-bands-combinations/   
 
 
-> The Landsat 8 satellite orbits the the Earth in a sun-synchronous, near-polar orbit, at an altitude of 705 km (438 mi), inclined at 98.2 degrees, and circles the Earth every 99 minutes.  The satellite has a 16-day repeat cycle with an equatorial crossing time: 10:00 a.m. +/- 15 minutes.    
-Landsat 8 aquires about 740 scenes a day on the Worldwide Reference System-2 (WRS-2) path/row system, with a swath overlap (or sidelap) varying from 7 percent at the Equator to a maximum of approximately 85 percent at extreme latitudes. The scene size is 185 km x 180 km (114 mi x 112 mi). Data products created from over 1.6 million Landsat 8 OLI/TIRS scenes are available to download from EarthExplorer, GloVis, and the LandsatLook Viewer. 
+> The source cited above is NOT an official LANDSAT source . Feel free to corraborate information quoted in this README file .    
+
+<p align="center">
+    <img src="https://github.com/DigitalCognition-GIS/Landsat_Experiments/blob/master/ScreenCaptures/Landsat_8.jpg" width= "850px">
+</p>
+
+
+- Source (Official USGS.gov) - https://www.usgs.gov/faqs/how-landsat-8-cirrus-band-9-used?qt-news_science_products=0#qt-news_science_products
+
+> How is the Landsat 8 Cirrus Band 9 used?   
+
+<p align="center">
+    <img src="https://github.com/DigitalCognition-GIS/Landsat_Experiments/blob/master/ScreenCaptures/Landsat_8.jpg" width= "850px">
+</p>
+
 
  
 #### Landsat 8 Instruments
