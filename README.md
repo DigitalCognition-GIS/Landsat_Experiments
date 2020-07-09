@@ -121,6 +121,16 @@ To simplify the "unpacking" of the QA band information, the USGS developed the L
 The Landsat QA Tools originally supported Landsat data in Hierarchical Data Format (HDF), similar to MODIS data. However, the USGS has moved away from Landsat HDF data delivery and toward using GeoTIFF as the standard Landsat data product delivery format, and the Landsat QA Tools needed to be changed accordingly.   
 
 
+- Source URL - https://openweather.co.uk/about
+
+> Free Weather pre-processed data from - OpenWeather.co.uk   
+The Quoted text below is an as is transcript from the - OpenWeather.co.uk - site , source sited above.    
+Fortunately, global meteorological companies such as NOAA, MetOffice, Environment Canada, ECMWF, etc. share our belief that weather data should be open. They supply us with enormous data feeds including data from radars, weather satellites and weather stations. They also provide a lot of more specialised products such as road alerts, road risks and marine weather.  
+
+Before weather data can find its way to businesses, it has to pass through the hands of developers, and they have to come to us. Our weather products are based on open data and open technologies. With our convolutional neural networks and ML technologies, we significantly enhance fundamental global forecast models with radar-based nowcasts, weather satellite data and the vast network of weather stations (82,000), rain gauges, and other weather sensors. Developers access these vast amounts of data via our light-speed, elegant APIs.  
+
+With our APIs, you get data for any location on the globe: minute forecast (currently the US), hourly forecast, current weather, history, with vast range of meteorological parameters. All these remarkable products are available for free with up to 1,000,000 calls per month. For those who are looking for bigger service we provide several paid subscriptions and a range of historical products.  
+
 
 ```
 python code here --- Work in Progress

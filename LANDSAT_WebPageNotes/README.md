@@ -32,6 +32,10 @@
 
 ### LANDSAT - 8 ( Features and Facts )
 
+- Source URL - Official -- https://landsat.gsfc.nasa.gov/landsat-8/landsat-8-bands/
+
+- Source URL - MAPBOX on Medium - https://blog.mapbox.com/putting-landsat-8s-bands-to-work-631c4029e9d1
+
 - Source URL - https://gisgeography.com/landsat-8-bands-combinations/   
 
 
