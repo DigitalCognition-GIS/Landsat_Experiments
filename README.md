@@ -2,7 +2,7 @@
 
 
 <p align="center">
-    <img src="https://github.com/DigitalCognition-GIS/spaceNet/blob/master/ScreenCaptures_QGIS_SpaceNet_etc/Screenshot%20from%202020-07-05%2017-18-10.png" width= "850px">
+    <img src="https://github.com/DigitalCognition-GIS/Landsat_Experiments/blob/master/ScreenCaptures/Landsat_8.jpg" width= "850px">
 </p>
 
 <h1 align="center">LANDSAT Experiments - </h1>
