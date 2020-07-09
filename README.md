@@ -30,6 +30,41 @@
 
 ### References - Always an ongoing effort - Work in Progress
 
+### LANDSAT - 8 ( Features and Facts )
+
+- Source URL - https://www.usgs.gov/land-resources/nli/landsat/landsat-8?qt-science_support_page_related_con=0#qt-science_support_page_related_con   
+
+
+> The Landsat 8 satellite orbits the the Earth in a sun-synchronous, near-polar orbit, at an altitude of 705 km (438 mi), inclined at 98.2 degrees, and circles the Earth every 99 minutes.  The satellite has a 16-day repeat cycle with an equatorial crossing time: 10:00 a.m. +/- 15 minutes.    
+Landsat 8 aquires about 740 scenes a day on the Worldwide Reference System-2 (WRS-2) path/row system, with a swath overlap (or sidelap) varying from 7 percent at the Equator to a maximum of approximately 85 percent at extreme latitudes. The scene size is 185 km x 180 km (114 mi x 112 mi). Data products created from over 1.6 million Landsat 8 OLI/TIRS scenes are available to download from EarthExplorer, GloVis, and the LandsatLook Viewer. 
+
+ 
+#### Landsat 8 Instruments
+
+> Operational Land Imager (OLI)  -  Built by Ball Aerospace & Technologies Corporation
+
+    Nine spectral bands, including a pan band:
+        Band 1 Visible (0.43 - 0.45 µm) 30 m
+        Band 2 Visible (0.450 - 0.51 µm) 30 m
+        Band 3 Visible (0.53 - 0.59 µm) 30 m
+        Band 4 Red (0.64 - 0.67 µm) 30 m
+        Band 5 Near-Infrared (0.85 - 0.88 µm) 30 m
+        Band 6 SWIR 1(1.57 - 1.65 µm) 30 m
+        Band 7 SWIR 2 (2.11 - 2.29 µm) 30 m
+        Band 8 Panchromatic (PAN) (0.50 - 0.68 µm) 15 m
+        Band 9 Cirrus (1.36 - 1.38 µm) 30 m
+
+> OLI captures data with improved radiometic precision over a 12-bit dynamic range, which improves overall signal to noise ratio. This translates into 4096 potential grey levels, compared with only 256 grey levels in Landsat 1-7 8-bit instruments. Improved signal to noise performance enables improved characterization of land cover state and condition.  
+
+The 12-bit data are scaled to 16-bit integers and delivered in the Level-1 data products. Products are scaled to 55,000 grey levels, and can be rescaled to the Top of Atmosphere (TOA) reflectance and/or radiance using radiometric rescaling coefficients provided in the product metadata file (MTL file).
+
+Thermal Infrared Sensor (TIRS)  -  Built by NASA Goddard  Space Flight Center 
+
+    Two spectral bands:
+        Band 10 TIRS 1 (10.6 - 11.19 µm) 100 m
+        Band 11 TIRS 2 (11.5 - 12.51 µm) 100 m
+
+
 ### Global Croplands Data 
 
 - Source URL - https://www.croplands.org/app/data/search?page=1&page_size=200
