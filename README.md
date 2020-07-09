@@ -132,6 +132,18 @@ Before weather data can find its way to businesses, it has to pass through the h
 With our APIs, you get data for any location on the globe: minute forecast (currently the US), hourly forecast, current weather, history, with vast range of meteorological parameters. All these remarkable products are available for free with up to 1,000,000 calls per month. For those who are looking for bigger service we provide several paid subscriptions and a range of historical products.  
 
 
+- Source URL pySTEPS - NowCasting weather (in-place of ForeCasting ) - https://pysteps.readthedocs.io/en/latest/user_guide/index.html
+
+> Work in Progress  
+
+
+- Source URL - Sentinel HUB Blog --- PAN Sharpening 
+
+> Pan-sharpening - Panchromatic sharpening (pan-sharpening) is a technique that merges high-resolution panchromatic data with medium-resolution multispectral data to create a multispectral image with higher-resolution features. Basically, it means using a panchromatic (single band) image to “sharpen” a multispectral image. In this sense, to “sharpen” means to increase the spatial resolution of a multispectral image.   
+
+
+
+
 ```
 python code here --- Work in Progress
 ```
