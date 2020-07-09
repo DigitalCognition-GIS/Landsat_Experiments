@@ -30,6 +30,13 @@
 
 ### References - Always an ongoing effort - Work in Progress
 
+### Global Croplands Data 
+
+- Source URL - https://www.croplands.org/app/data/search?page=1&page_size=200
+
+> The Global Croplands data . The NASA and related agencies effort towards Global Food Security . Part of the answer lies in understanding global croplands, both rainfed and irrigated, how they are used, their extents and how they can be better managed, particularly since they account for nearly 80% of all freshwater abstractions. Here technologies such as remote sensing will play an increasingly critical role – providing new spatial information to help manage croplands in a more productive and sustainable way.   
+
+
 ### Global Food Security Support Analysis Data (GFSAD)
 
 - Source URL - https://lpdaac.usgs.gov/documents/168/GFSAD30SEACE_User_Guide_V1.pdf  
