@@ -137,9 +137,15 @@ With our APIs, you get data for any location on the globe: minute forecast (curr
 > Work in Progress  
 
 
-- Source URL - Sentinel HUB Blog --- PAN Sharpening 
+- Source URL - Sentinel-HUB Blog - https://medium.com/sentinel-hub/landsat-tweaks-panchromatic-and-thermal-bands-ddaf5a98d7f
 
 > Pan-sharpening - Panchromatic sharpening (pan-sharpening) is a technique that merges high-resolution panchromatic data with medium-resolution multispectral data to create a multispectral image with higher-resolution features. Basically, it means using a panchromatic (single band) image to “sharpen” a multispectral image. In this sense, to “sharpen” means to increase the spatial resolution of a multispectral image.   
+
+
+- Source URL -SURVIVAL GUIDE TO LANDSAT PRE-PROCESSING -  https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.1002/ecy.1730
+
+
+> Landsat data are increasingly used for ecological monitoring and research. These data  often  require  preprocessing  prior  to  analysis  to  account  for  sensor,  solar,  atmospheric,  and topographic effects. However, ecologists using these data are faced with a literature con-taining  inconsistent  terminology,  outdated  methods,  and  a  vast  number  of  approaches  with  contradictory recommendations. These issues can, at best, make determining the correct pre-processing  workflow  a  difficult  and  time-  consuming  task  and,  at  worst,  lead  to  erroneous  results. We address these problems by providing a concise overview of the Landsat missions and  sensors  and  by  clarifying  frequently  conflated  terms  and  methods.   
 
 
 
