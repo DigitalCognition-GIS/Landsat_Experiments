@@ -148,6 +148,10 @@ With our APIs, you get data for any location on the globe: minute forecast (curr
 > Landsat data are increasingly used for ecological monitoring and research. These data  often  require  preprocessing  prior  to  analysis  to  account  for  sensor,  solar,  atmospheric,  and topographic effects. However, ecologists using these data are faced with a literature con-taining  inconsistent  terminology,  outdated  methods,  and  a  vast  number  of  approaches  with  contradictory recommendations. These issues can, at best, make determining the correct pre-processing  workflow  a  difficult  and  time-  consuming  task  and,  at  worst,  lead  to  erroneous  results. We address these problems by providing a concise overview of the Landsat missions and  sensors  and  by  clarifying  frequently  conflated  terms  and  methods.   
 
 
+- Source URL Official USGS -- LANDSAT Collections , how they are processed and categorised - https://www.usgs.gov/land-resources/nli/landsat/landsat-collection-1?qt-science_support_page_related_con=1#qt-science_support_page_related_con
+
+> Landsat scenes with the highest available data quality are placed into Tier 1 and are considered suitable for time-series analysis. Tier 1 includes Level-1 Precision and Terrain (L1TP) corrected data that have well-characterized radiometry and are inter-calibrated across the different Landsat instruments. The georegistration of Tier 1 scenes is consistent and within prescribed image-to-image tolerances of ≦ 12-meter radial root mean square error (RMSE).   
+
 
 
 ```
